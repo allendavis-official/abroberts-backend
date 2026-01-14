@@ -25,6 +25,8 @@ const corsOptions = {
     "http://localhost:3000",
     "https://abroberts.vercel.app",
     "https://abroberts-*.vercel.app", // Allow all Vercel preview deployments
+    "https://abrahamrobert.com",
+    "https://www.abrahamrobert.com",
   ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
